@@ -1,9 +1,9 @@
 /* 确保页面的背景是半透明黑色并应用模糊效果 */
-body, html {
+/* body, html {
   margin: 0;
   padding: 0;
   height: 100%;
   background-color: transparent; /* 半透明黑色背景 */
   backdrop-filter: blur(10px); /* 磨砂效果 */
   -webkit-backdrop-filter: blur(10px); /* 兼容Safari */
-}
+} */
